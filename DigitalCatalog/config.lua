@@ -6,6 +6,6 @@ application =
 	{
 		width = 768,
 		height = 1024,
-		scale = "zoomeven"
+		scale = "none"
 	},
 }
